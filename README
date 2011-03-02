@@ -1,0 +1,5 @@
+XSL files to convert MDaemon XML files for import into other applications
+    
+    contacts.xsl - converts contacts XML to CSV (ready for import to Google Apps)
+    tasks-ical.xsl - converts tasks XML to iCalendar VTODO format
+    tasks-text.xsl - converts tasks XML to readable text format
